@@ -7,6 +7,7 @@ TARGET =
 DEPENDPATH += .
 INCLUDEPATH += /home/xenoterracide/cropt/test/. .
 
+QT += sql
 # Input
 HEADERS += connection.h
 SOURCES += test.cpp
