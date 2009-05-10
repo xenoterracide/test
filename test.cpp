@@ -1,7 +1,7 @@
  #include <QtGui>
  #include <QtSql>
 
- #include "../connection.h"
+ #include "connection.h"
 
  void initializeModel(QSqlRelationalTableModel *model)
  {
